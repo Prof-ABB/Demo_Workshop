@@ -3,7 +3,7 @@ Github Hands on Workshop
 Student-Project-Repo/
 ```besh
 ├── Code/
-│   └── (students upload their code)
+│   └── (students upload their OWN FIRSTcode)
 ├── Report/
 │   └── (students upload their report)
 ├── Evaluation/
